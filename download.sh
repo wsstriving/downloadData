@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SAMPLE_RATE=22050
+SAMPLE_RATE=16000
 
 # fetch_clip(videoID, startTime, endTime)
 fetch_clip() {
