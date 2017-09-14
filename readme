@@ -1,0 +1,4 @@
+sudo apt-get install ffmpeg
+pip install youtube-dl
+
+cat csv/eval_segments.csv | ./download.sh
